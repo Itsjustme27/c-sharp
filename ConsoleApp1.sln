@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "studentGrade", "studentGrad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "studentGrade\ConsoleApp1\ConsoleApp1.csproj", "{3C603C16-E56B-42C1-8EB0-406941331757}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "courseGrade", "courseGrade", "{6718ECE5-D499-4E3F-AB33-E831B140A490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "courseGrade\ConsoleApp\ConsoleApp.csproj", "{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,13 @@ Global
 		{3C603C16-E56B-42C1-8EB0-406941331757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C603C16-E56B-42C1-8EB0-406941331757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C603C16-E56B-42C1-8EB0-406941331757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3C603C16-E56B-42C1-8EB0-406941331757} = {671A90DE-3EFE-47CD-91D0-9C5EB26875E5}
+		{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65} = {6718ECE5-D499-4E3F-AB33-E831B140A490}
 	EndGlobalSection
 EndGlobal

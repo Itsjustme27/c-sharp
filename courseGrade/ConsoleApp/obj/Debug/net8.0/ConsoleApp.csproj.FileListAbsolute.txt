@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/courseGrade/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
