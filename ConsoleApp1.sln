@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "courseGrade", "courseGrade"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "courseGrade\ConsoleApp\ConsoleApp.csproj", "{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "..\console-rock-paper-scissors-c-sharp\RockPaperScissors\RockPaperScissors.csproj", "{668448B3-B886-4ECB-9673-5EB2813BEDD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharpProject", "cSharpProject\cSharpProject.csproj", "{AFA93A4E-11DC-4A59-AFDC-EAEC1600C868}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +32,14 @@ Global
 		{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25A98F5C-FD30-4C2C-AB3A-F4FD2B859F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668448B3-B886-4ECB-9673-5EB2813BEDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668448B3-B886-4ECB-9673-5EB2813BEDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668448B3-B886-4ECB-9673-5EB2813BEDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668448B3-B886-4ECB-9673-5EB2813BEDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA93A4E-11DC-4A59-AFDC-EAEC1600C868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA93A4E-11DC-4A59-AFDC-EAEC1600C868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA93A4E-11DC-4A59-AFDC-EAEC1600C868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA93A4E-11DC-4A59-AFDC-EAEC1600C868}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3C603C16-E56B-42C1-8EB0-406941331757} = {671A90DE-3EFE-47CD-91D0-9C5EB26875E5}

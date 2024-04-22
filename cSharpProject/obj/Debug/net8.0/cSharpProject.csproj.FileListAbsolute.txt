@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/cSharpProject/bin/Debug/net8.0/cSharpProject
+/home/itsjustme/Documents/c-sharp/cSharpProject/bin/Debug/net8.0/cSharpProject.deps.json
+/home/itsjustme/Documents/c-sharp/cSharpProject/bin/Debug/net8.0/cSharpProject.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/cSharpProject/bin/Debug/net8.0/cSharpProject.dll
+/home/itsjustme/Documents/c-sharp/cSharpProject/bin/Debug/net8.0/cSharpProject.pdb
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/cSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/cSharpProject.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/cSharpProject.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/cSharpProject.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/cSharpProject.sourcelink.json
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/cSharpProject.dll
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/refint/cSharpProject.dll
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/cSharpProject.pdb
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/cSharpProject.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/cSharpProject/obj/Debug/net8.0/ref/cSharpProject.dll
