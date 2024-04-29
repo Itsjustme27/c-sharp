@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.sourcelink.json
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator.deps.json
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator.dll
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/bin/Debug/net8.0/ConsoleCalculator.pdb
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.dll
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/refint/ConsoleCalculator.dll
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.pdb
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/ConsoleCalculator.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/ConsoleCalculator/obj/Debug/net8.0/ref/ConsoleCalculator.dll

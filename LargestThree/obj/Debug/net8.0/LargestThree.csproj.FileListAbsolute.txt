@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/LargestThree/bin/Debug/net8.0/LargestThree
+/home/itsjustme/Documents/c-sharp/LargestThree/bin/Debug/net8.0/LargestThree.deps.json
+/home/itsjustme/Documents/c-sharp/LargestThree/bin/Debug/net8.0/LargestThree.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/LargestThree/bin/Debug/net8.0/LargestThree.dll
+/home/itsjustme/Documents/c-sharp/LargestThree/bin/Debug/net8.0/LargestThree.pdb
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/LargestThree.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/LargestThree.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/LargestThree.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/LargestThree.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/LargestThree.sourcelink.json
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/LargestThree.dll
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/refint/LargestThree.dll
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/LargestThree.pdb
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/LargestThree.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/LargestThree/obj/Debug/net8.0/ref/LargestThree.dll

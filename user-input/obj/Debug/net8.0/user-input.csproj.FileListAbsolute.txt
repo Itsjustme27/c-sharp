@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/user-input.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/user-input.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/user-input.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/user-input.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/user-input.sourcelink.json
+/home/itsjustme/Documents/c-sharp/user-input/bin/Debug/net8.0/user-input
+/home/itsjustme/Documents/c-sharp/user-input/bin/Debug/net8.0/user-input.deps.json
+/home/itsjustme/Documents/c-sharp/user-input/bin/Debug/net8.0/user-input.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/user-input/bin/Debug/net8.0/user-input.dll
+/home/itsjustme/Documents/c-sharp/user-input/bin/Debug/net8.0/user-input.pdb
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/user-input.dll
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/refint/user-input.dll
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/user-input.pdb
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/user-input.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/user-input/obj/Debug/net8.0/ref/user-input.dll

@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/Marks.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/Marks.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/Marks.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/Marks.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/Marks.sourcelink.json
+/home/itsjustme/Documents/c-sharp/Marks/bin/Debug/net8.0/Marks
+/home/itsjustme/Documents/c-sharp/Marks/bin/Debug/net8.0/Marks.deps.json
+/home/itsjustme/Documents/c-sharp/Marks/bin/Debug/net8.0/Marks.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/Marks/bin/Debug/net8.0/Marks.dll
+/home/itsjustme/Documents/c-sharp/Marks/bin/Debug/net8.0/Marks.pdb
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/Marks.dll
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/refint/Marks.dll
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/Marks.pdb
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/Marks.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/Marks/obj/Debug/net8.0/ref/Marks.dll
