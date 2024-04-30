@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/factors/bin/Debug/net8.0/factors
+/home/itsjustme/Documents/c-sharp/factors/bin/Debug/net8.0/factors.deps.json
+/home/itsjustme/Documents/c-sharp/factors/bin/Debug/net8.0/factors.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/factors/bin/Debug/net8.0/factors.dll
+/home/itsjustme/Documents/c-sharp/factors/bin/Debug/net8.0/factors.pdb
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/factors.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/factors.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/factors.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/factors.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/factors.sourcelink.json
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/factors.dll
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/refint/factors.dll
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/factors.pdb
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/factors.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/factors/obj/Debug/net8.0/ref/factors.dll

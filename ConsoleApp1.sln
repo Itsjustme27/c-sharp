@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestThree", "LargestThre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marks", "Marks\Marks.csproj", "{B193D163-C29B-46FC-A5A5-D802D90E774B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factors", "factors\factors.csproj", "{931A1DB8-972E-447A-AD43-966AF5D02940}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,6 +72,10 @@ Global
 		{B193D163-C29B-46FC-A5A5-D802D90E774B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B193D163-C29B-46FC-A5A5-D802D90E774B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B193D163-C29B-46FC-A5A5-D802D90E774B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931A1DB8-972E-447A-AD43-966AF5D02940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931A1DB8-972E-447A-AD43-966AF5D02940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931A1DB8-972E-447A-AD43-966AF5D02940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931A1DB8-972E-447A-AD43-966AF5D02940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3C603C16-E56B-42C1-8EB0-406941331757} = {671A90DE-3EFE-47CD-91D0-9C5EB26875E5}
