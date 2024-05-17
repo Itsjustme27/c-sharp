@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/OOP1/bin/Debug/net8.0/OOP1
+/home/itsjustme/Documents/c-sharp/OOP1/bin/Debug/net8.0/OOP1.deps.json
+/home/itsjustme/Documents/c-sharp/OOP1/bin/Debug/net8.0/OOP1.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/OOP1/bin/Debug/net8.0/OOP1.dll
+/home/itsjustme/Documents/c-sharp/OOP1/bin/Debug/net8.0/OOP1.pdb
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/OOP1.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/OOP1.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/OOP1.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/OOP1.sourcelink.json
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/OOP1.dll
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/refint/OOP1.dll
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/OOP1.pdb
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/OOP1.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/OOP1/obj/Debug/net8.0/ref/OOP1.dll

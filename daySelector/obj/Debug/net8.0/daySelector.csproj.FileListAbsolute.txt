@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/daySelector/bin/Debug/net8.0/daySelector
+/home/itsjustme/Documents/c-sharp/daySelector/bin/Debug/net8.0/daySelector.deps.json
+/home/itsjustme/Documents/c-sharp/daySelector/bin/Debug/net8.0/daySelector.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/daySelector/bin/Debug/net8.0/daySelector.dll
+/home/itsjustme/Documents/c-sharp/daySelector/bin/Debug/net8.0/daySelector.pdb
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/daySelector.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/daySelector.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/daySelector.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/daySelector.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/daySelector.sourcelink.json
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/daySelector.dll
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/refint/daySelector.dll
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/daySelector.pdb
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/daySelector.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/daySelector/obj/Debug/net8.0/ref/daySelector.dll

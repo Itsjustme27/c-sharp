@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/MultipleMethod/bin/Debug/net8.0/MultipleMethod
+/home/itsjustme/Documents/c-sharp/MultipleMethod/bin/Debug/net8.0/MultipleMethod.deps.json
+/home/itsjustme/Documents/c-sharp/MultipleMethod/bin/Debug/net8.0/MultipleMethod.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/MultipleMethod/bin/Debug/net8.0/MultipleMethod.dll
+/home/itsjustme/Documents/c-sharp/MultipleMethod/bin/Debug/net8.0/MultipleMethod.pdb
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/MultipleMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/MultipleMethod.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/MultipleMethod.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/MultipleMethod.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/MultipleMethod.sourcelink.json
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/MultipleMethod.dll
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/refint/MultipleMethod.dll
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/MultipleMethod.pdb
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/MultipleMethod.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/MultipleMethod/obj/Debug/net8.0/ref/MultipleMethod.dll

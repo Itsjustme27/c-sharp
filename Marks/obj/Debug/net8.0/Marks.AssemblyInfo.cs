@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72c2c7fa17afcc61e08635529bd2e3d39b9b5a3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ae1de6466f317ba97c17d00be2ec0dbdca871b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
