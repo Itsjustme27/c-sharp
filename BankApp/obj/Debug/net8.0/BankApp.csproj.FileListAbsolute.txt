@@ -1,0 +1,15 @@
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfoInputs.cache
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/BankApp.AssemblyInfo.cs
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/BankApp.csproj.CoreCompileInputs.cache
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/BankApp.sourcelink.json
+/home/itsjustme/Documents/c-sharp/BankApp/bin/Debug/net8.0/BankApp
+/home/itsjustme/Documents/c-sharp/BankApp/bin/Debug/net8.0/BankApp.deps.json
+/home/itsjustme/Documents/c-sharp/BankApp/bin/Debug/net8.0/BankApp.runtimeconfig.json
+/home/itsjustme/Documents/c-sharp/BankApp/bin/Debug/net8.0/BankApp.dll
+/home/itsjustme/Documents/c-sharp/BankApp/bin/Debug/net8.0/BankApp.pdb
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/BankApp.dll
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/refint/BankApp.dll
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/BankApp.pdb
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/BankApp.genruntimeconfig.cache
+/home/itsjustme/Documents/c-sharp/BankApp/obj/Debug/net8.0/ref/BankApp.dll
